@@ -12,7 +12,7 @@ npx tauri android dev
 
 Build (generates apk and aab files)
 ```
-npm tauri andorid build
+npx tauri andorid build
 ```
 Next you can send apk file to your phone and install.
 It will be there:
