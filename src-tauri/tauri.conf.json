@@ -1,8 +1,8 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-  "productName": "habit-tracker",
+  "productName": "Habit tracker",
   "version": "0.1.0",
-  "identifier": "com.tauri.dev",
+  "identifier": "habit-tracker.com",
   "build": {
     "frontendDist": "../build",
     "devUrl": "http://localhost:3000",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "habit-tracker",
+        "title": "Habit tracker",
         "width": 800,
         "height": 600,
         "resizable": true,

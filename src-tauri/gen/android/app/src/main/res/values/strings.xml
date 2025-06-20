@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">habit-tracker</string>
-    <string name="main_activity_title">habit-tracker</string>
+    <string name="app_name">Habit tracker</string>
+    <string name="main_activity_title">Habit tracker</string>
 </resources>

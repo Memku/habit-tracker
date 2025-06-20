@@ -1,3 +1,3 @@
-package com.tauri.dev
+package habit_tracker.com
 
 class MainActivity : TauriActivity()
